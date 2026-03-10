@@ -2,10 +2,6 @@
 ---
 Example SQL queries used for troubleshooting and validation in an internal expense management application.
 These are written in a support troubleshooting style.
----
-# 04 — SQL Pack (10 queries)
-
-Example SQL queries used for troubleshooting and validation in an internal expense management application. These are written in a support troubleshooting style.
 
 ---
 
