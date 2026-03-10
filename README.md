@@ -1,4 +1,4 @@
-# Tier 2 Application Support Portfolio
+# Application Support Work Samples Portfolio
 
 This repository contains simulated work samples inspired by real **Tier 2 application support workflows** using a fictional internal expense application called **SpendWise**.
 
