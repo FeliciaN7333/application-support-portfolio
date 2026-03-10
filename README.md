@@ -1,6 +1,6 @@
 # Tier 2 Application Support Portfolio
 
-This repository contains simulated work samples inspired by real **Tier 1 / Tier 2 application support workflows** using a fictional internal expense application called **SpendWise**.
+This repository contains simulated work samples inspired by real **Tier 2 application support workflows** using a fictional internal expense application called **SpendWise**.
 
 The goal of this portfolio is to demonstrate how I approach application support work beyond basic ticket handling: structured triage, issue isolation, user communication, escalation readiness, documentation, and support-oriented SQL.
 
