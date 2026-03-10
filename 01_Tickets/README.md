@@ -1,6 +1,6 @@
 # 01 — Tickets (3)
 
-Examples of common support scenarios handled during Tier 2 application support.
+Examples of common support scenarios handled during Tier 1 application support.
 
 ---
 
