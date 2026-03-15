@@ -42,6 +42,6 @@ This portfolio highlights practical support workflows including:
 
 ## Notes
 
-- All scenarios in this repository are **simulated for portfolio purposes**.
+- All scenarios in this repository are simulated for portfolio purposes.
 - The application, users, report IDs, and request IDs are fictional.
 - This portfolio is intended to demonstrate my approach to application support work.
