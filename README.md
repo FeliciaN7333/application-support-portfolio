@@ -2,7 +2,7 @@
 
 This repository contains simulated work samples modeled after internal application support workflows for a fictional expense application called SpendWise, including ticket triage, SQL-based troubleshooting, escalation preparation, and knowledge base documentation.
 
-It is designed to demonstrate a structured approach to issue triage, investigation, documentation, and escalation
+It is designed to demonstrate a structured approach to issue triage, investigation, documentation, and escalation.
 
 ---
 
