@@ -1,8 +1,8 @@
 # Application Support Work Samples Portfolio
 
-This repository contains simulated work samples inspired by real **Tier 1 application support workflows** using a fictional internal expense application called **SpendWise**.
+This repository contains simulated work samples modeled after internal application support workflows for a fictional expense application called SpendWise, including ticket triage, SQL-based troubleshooting, escalation preparation, and knowledge base documentation.
 
-The goal of this portfolio is to demonstrate how I approach application support work beyond basic ticket handling: structured triage, issue isolation, user communication, escalation readiness, documentation, and support-oriented SQL.
+It is designed to demonstrate a structured approach to issue triage, investigation, documentation, and escalation
 
 ---
 
